@@ -7,6 +7,10 @@ package employee;
 /**
  *
  * @author user
+Nama     : Farchatul Hudayah
+Nim      : 22205071
+Prodi    : Teknik Informatika
+ 
  */
 
 abstract class Employee {
